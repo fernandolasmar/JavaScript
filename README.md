@@ -3,7 +3,7 @@
 ## Fernando Lasmar
 
 :computer: Sou estudante Full-stack | Trybe!  
-:house_with_garden: Atualmente em Brasil.  
+:house_with_garden: Atualmente localizado em Brasil, Minas Gerais, Belo Horizonte.  
 :books: Atualmente estou estudando javaScript.  
 :outbox_tray: 2021 Objetivos: criar um novo projeto e encontrar um novo emprego.
 
