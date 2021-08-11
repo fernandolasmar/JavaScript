@@ -20,7 +20,8 @@ Curso básico de javaScript "Programação para internet com JavaScript" - concl
 
 - Obrigado pela visita.
 
-Conecte-se comigo 
-<img src="imagens/aperto-de-mao.gif" height="32px">
+# Conecte-se comigo<img src=https://github.com/fernandolasmar/JavaScript/blob/introducao-javaScript-basico/imagens/aperto%20-de-mao.gif height="32px">   
+ [<img src="https://github.com/fernandolasmar/JavaScript/blob/introducao-javaScript-basico/imagens/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/fernando-lasmar-3353a4b6/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/fernandolasmar) 
+
 
 ----------------------------------------------------------------------------------
