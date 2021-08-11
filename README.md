@@ -20,4 +20,7 @@ Curso básico de javaScript "Programação para internet com JavaScript" - concl
 
 - Obrigado pela visita.
 
+Conecte-se comigo 
+<img src="imagens/aperto-de-mao.gif" height="32px">
+
 ----------------------------------------------------------------------------------
